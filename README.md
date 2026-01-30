@@ -1,1 +1,16 @@
-Belajar git ignore
+biodata_haniffaizalfarisy.py
+
+print("=======================================")
+print("Program Biodata Sederhana Dengan Python")
+print("=======================================")
+
+nama = "Isi dengan asdqwere Kamu"
+hobi = "Isi dengan Hobi kamu"
+alamat = "Isi dengan alamat kamu"         hanif
+kota = "Isi dengan Kota kamu"
+
+print("Nama Lengkap  :", nama)
+print("Alamat        :", alamat, "\n                Kota ", kota)
+print("Hobi          :", hobi)
+
+print("=======================================")
