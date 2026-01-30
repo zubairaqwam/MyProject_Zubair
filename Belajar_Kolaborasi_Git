@@ -4,7 +4,7 @@ print("=======================================")
 print("Program Biodata Sederhana Dengan Python")
 print("=======================================")
 
-nama = "Isi dengan asd Kamu"
+nama = "Isi dengan asdqwere Kamu"
 hobi = "Isi dengan Hobi kamu"
 alamat = "Isi dengan alamat kamu"
 kota = "Isi dengan Kota kamu"
