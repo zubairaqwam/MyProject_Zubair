@@ -4,10 +4,10 @@ print("=======================================")
 print("Program Biodata Sederhana Dengan Python")
 print("=======================================")
 
-nama = "Isi dengan asdqwere Kamu"
+nama = "Isi apa saja"
 hobi = "Isi dengan Hobi kamu"
 alamat = "Isi dengan alamat kamu"
-kota = "Isi dengan Kota kamu"
+kota = "aini tugas game lab"
 
 print("Nama Lengkap  :", nama)
 print("Alamat        :", alamat, "\n                Kota ", kota)
